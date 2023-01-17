@@ -1,2 +1,2 @@
-# rps
-Rock, paper, scissors in C++
+# C++ RPS
+Rock, paper, scissors in C++.
