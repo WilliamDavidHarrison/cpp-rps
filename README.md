@@ -1,2 +1,2 @@
 # C++ RPS
-Rock, paper, scissors in C++
+A basic rock, paper, scissors game in C++.
